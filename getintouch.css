@@ -1,0 +1,89 @@
+  body{width: 85%;
+margin: auto;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 1.2em; 
+color: rgb(56, 54, 54);
+}
+.header div{
+ display: inline-block;
+ 
+}
+
+.header{
+ width: 100%;
+ background-color: rgb(3, 73, 3);
+ padding: 3px 10px;
+ margin-bottom:0px ;
+}
+
+.header h1 {
+ color: rgb(211, 247, 247);
+ font-weight: 400;
+}
+
+.header span{
+ color: rgb(244, 217, 62);
+}
+
+.header ul{
+ list-style: none;
+ padding-left: 400px;
+}
+
+.header ul li{
+ display: inline-block;
+ margin-left: 40px;
+ 
+}
+
+.header ul li a{
+ text-decoration: none;
+ color: white;
+}
+
+.header ul li a:hover{
+    color:  rgb(244, 217, 62);
+}
+
+.footer{
+ background-color: rgb(3, 73, 3);
+ color: white;
+ text-align: center;
+ height: 70px;
+ padding-top: 23px;
+}
+
+
+.form content{
+width: 50%;
+margin: auto;
+}
+
+form{
+background-color: rgb(86, 137, 86);
+padding: 20px;
+}
+
+input, textarea{
+ width: 95%;
+ height: 30px;
+ border: 0px;
+ border-radius: 10px;
+ margin-top: 5px;
+ padding: 10px;
+
+}
+
+textarea{
+height: 60px;
+}
+
+.submit{
+color:white;
+background-color: rgb(45, 109, 45);
+}
+
+
+
+
+

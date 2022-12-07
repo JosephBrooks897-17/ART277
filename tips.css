@@ -1,0 +1,126 @@
+  /*tips style sheet*/
+body{width: 85%;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2em; 
+    color: rgb(56, 54, 54);
+    }
+    .header div{
+     display: inline-block;
+     
+    }
+    
+    .header{
+     width: 100%;
+     background-color: rgb(3, 73, 3);
+     padding: 3px 10px;
+     margin-bottom:0px ;
+    }
+    
+    .header h1 {
+     color: rgb(211, 247, 247);
+     font-weight: 400;
+    }
+    
+    .header span{
+     color: rgb(244, 217, 62);
+    }
+    
+    .header ul{
+     list-style: none;
+     padding-left: 400px;
+    }
+    
+    .header ul li{
+     display: inline-block;
+     margin-left: 40px;
+     
+    }
+    
+    .header ul li a{
+     text-decoration: none;
+     color: white;
+    }
+
+    
+.footer{
+    background-color: rgb(3, 73, 3);
+    color: white;
+    text-align: center;
+    height: 70px;
+    padding-top: 23px;
+   }
+    
+    .header ul li a:hover{
+        color:  rgb(244, 217, 62);
+    }
+
+    .div-first h1{
+       color:rgb(244, 217, 62) ; 
+    }
+
+    .div-first h1 span{
+        color: rgb(24, 74, 24);
+    }
+
+
+
+    .div-first p{
+        font-size: 30px;
+        margin: 20px 0;
+        color: rgb(73, 66, 66);
+    }
+
+    .div-first p video{
+        float: left;
+        width: auto;
+        margin: 10px 20px;
+        margin-right:40px ;
+        height: 170px;
+        
+    }
+
+    table{
+        width: 100%;
+        background-color:rgb(111, 144, 111) ;
+    }
+
+    .table{
+        margin: 20px;
+
+    }
+
+    table,th,td{
+        font-size: 20px;
+        border: 2px solid black;
+        border-collapse: collapse;
+    }
+
+    table tbody tr td{
+        padding: 10px 10px;
+        font-size: 20px;
+    }
+
+    td{
+        padding: 0 20px;
+        font-size: 16px;
+    }
+
+    .hss{
+        font-size: 25px;
+    }
+
+    .table p{
+        padding: 5px 10px;
+        font-size: 20px;
+        border: 2px solid black;
+        border-top: none;
+    }
+
+    .table p span{
+        font-weight: bolder;
+    }
+
+    .tips{
+        border:1px solid white;
+    }
